@@ -1,5 +1,5 @@
 ### Welcome! 👋
-My name is Gabe, I'm a Full Stack Web Developer for 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Alma College; Just doing my best maintaining old PHP and developing replacement systems.
+My name is Gabe! I'm a web developer for Scout Clinical; Working in Symfony and MongoDB to deliver excellent user experiences.
 
 ## Proficiencies 
 
